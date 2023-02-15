@@ -1,0 +1,11 @@
+body {
+    background-color: cadetblue;
+}
+.listView{
+    background-color: rgb(106, 79, 131);
+    width: 400px;
+    height: 100%;
+}
+.createdReportElementText {
+    text-align: start;
+}
